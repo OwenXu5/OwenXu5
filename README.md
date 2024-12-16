@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm OwenXu5, senior of Donghua University, majoring in AI.
 
 <!--
 **OwenXu5/OwenXu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
